@@ -1,3 +1,3 @@
-# Education with Python
+# Python Basics
 
-My education materials
+My education projects with Python from SoftUni

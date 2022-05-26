@@ -1,2 +1,3 @@
-# Test
-testing platform
+# Education with Python
+
+My education materials
